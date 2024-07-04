@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:Maui.EntraId.ViewModels"
+             x:DataType="viewModels:MainViewModel"
+             Shell.PresentationMode="Modal"
+             x:Class="Maui.EntraId.MainPage">
+
+        <StackLayout Spacing="12"
+                     Margin="0,32">
+            <Label Text="Logged in 🙂" 
+                   HorizontalOptions="Center"
+                   FontSize="Title" />
+            <Label Text="Access Token" Style="{StaticResource SubHeadline}" />
+            <Grid ColumnDefinitions="*,Auto" ColumnSpacing="4" Margin="8">
+                <Label Text="{Binding AccessTokenText}" 
+                       MaxLines="3"
+                       Grid.Column="0" />
+                <Button Text="Copy" 
+                        Command="{Binding CopyAccessTokenCommand}" Grid.Column="1" />
+            </Grid>
+            <Label Text="ID Token" Style="{StaticResource SubHeadline}" />
+            <Grid ColumnDefinitions="*,Auto" ColumnSpacing="4" Margin="8">
+                <Label Text="{Binding IdTokenText}"
+                       MaxLines="3" />
+                <Button Text="Copy" 
+                        Command="{Binding CopyIdentityTokenCommand}" Grid.Column="1" />
+            </Grid>
+            <Label Text="{Binding TokenExpirationText, StringFormat='Expires at: {0}'}" HorizontalOptions="Center" />
+            <Button Text="Refresh Token" 
+                    Margin="32,0"
+                    Command="{Binding RefreshCommand}" />
+            <Button Text="Logout"
+                    Margin="32,0"
+                    Command="{Binding LogoutCommand}" />
+        </StackLayout>
+</ContentPage>

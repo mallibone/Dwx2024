@@ -1,0 +1,209 @@
+{
+    "quotes": [
+      {
+        "quote": "Talk is cheap. Show me the code.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Harold Abelson"
+      },
+      {
+        "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+        "author": "Kent Beck"
+      },
+      {
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler"
+      },
+      {
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson"
+      },
+      {
+        "quote": "Experience is the name everyone gives to their mistakes.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "quote": "In order to be irreplaceable, one must always be different.",
+        "author": "Coco Chanel"
+      },
+      {
+        "quote": "Java is to JavaScript what car is to Carpet.",
+        "author": "Chris Heilmann"
+      },
+      {
+        "quote": "Knowledge is power.",
+        "author": "Francis Bacon"
+      },
+      {
+        "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+        "author": "Dan Salomon"
+      },
+      {
+        "quote": "Perl – The only language that looks the same before and after RSA encryption.",
+        "author": "Keith Bostic"
+      },
+      {
+        "quote": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+        "author": "Gerald Weinberg"
+      },
+      {
+        "quote": "It's not a bug – it's an undocumented feature.",
+        "author": "Anonymous"
+      },
+      {
+        "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+        "author": "Edward V. Berard"
+      },
+      {
+        "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+        "author": "Seymour Cray"
+      },
+      {
+        "quote": "There are only two kinds of programming languages: those people always bitch about and those nobody uses.",
+        "author": "Bjarne Stroustrup"
+      },
+      {
+        "quote": "The function of good software is to make the complex appear to be simple.",
+        "author": "Grady Booch"
+      },
+      {
+        "quote": "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.",
+        "author": "Eric S. Raymond"
+      },
+      {
+        "quote": "To iterate is human, to recurse divine.",
+        "author": "L. Peter Deutsch"
+      },
+      {
+        "quote": "Controlling complexity is the essence of computer programming.",
+        "author": "Brian Kernighan"
+      },
+      {
+        "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+        "author": "Linus Torvalds"
+      },
+      {
+        "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+        "author": "Alan Kay"
+      },
+      {
+        "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+        "author": "C.A.R. Hoare"
+      },
+      {
+        "quote": "A language that doesn’t affect the way you think about programming is not worth knowing.",
+        "author": "Alan Perlis"
+      },
+      {
+        "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+        "author": "John Ousterhout"
+      },
+      {
+        "quote": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.",
+        "author": "Mosher’s Law of Software Engineering"
+      },
+      {
+        "quote": "As soon as we started programming, we found to our surprise that it wasn’t as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.",
+        "author": "Maurice Wilkes"
+      },
+      {
+        "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "author": "Bill Gates"
+      },
+      {
+        "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+        "author": "Rick Cook"
+      },
+      {
+        "quote": "Code is like humor. When you have to explain it, it’s bad.",
+        "author": "Cory House"
+      },
+      {
+        "quote": "Fix the cause, not the symptom.",
+        "author": "Steve Maguire"
+      },
+      {
+        "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+        "author": "Kent Beck"
+      },
+      {
+        "quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+        "author": "Martin Fowler"
+      },
+      {
+        "quote": "Simplicity is the soul of efficiency.",
+        "author": "Austin Freeman"
+      },
+      {
+        "quote": "Before software can be reusable it first has to be usable.",
+        "author": "Ralph Johnson"
+      },
+      {
+        "quote": "Make it work, make it right, make it fast.",
+        "author": "Kent Beck"
+      },
+      {
+        "quote": "Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.",
+        "author": "Alan J. Perlis"
+      },
+      {
+        "quote": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s².",
+        "author": "Anonymous"
+      },
+      {
+        "quote": "The computer was born to solve problems that did not exist before.",
+        "author": "Bill Gates"
+      },
+      {
+        "quote": "The only way to learn a new programming language is by writing programs in it.",
+        "author": "Dennis Ritchie"
+      },
+      {
+        "quote": "Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.",
+        "author": "Joyce Wheeler"
+      },
+      {
+        "quote": "Testing can only prove the presence of bugs, not their absence.",
+        "author": "Edsger W. Dijkstra"
+      },
+      {
+        "quote": "How rare it is that maintaining someone else’s code is better than rewriting it from scratch.",
+        "author": "Joel Spolsky"
+      },
+      {
+        "quote": "It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code. You should be able to read it.",
+        "author": "Steve McConnell"
+      },
+      {
+        "quote": "In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.",
+        "author": "Jon Bentley"
+      },
+      {
+        "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "author": "Edsger Dijkstra"
+      },
+      {
+        "quote": "Don’t comment bad code – rewrite it.",
+        "author": "Brian Kernighan"
+      },
+      {
+        "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+        "author": "Louis Srygley"
+      },
+      {
+        "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+        "author": "Bjarne Stroustrup"
+      },
+      {
+        "quote": "While physics and mathematics may tell us how the universe began, they are not much use in predicting human behavior because there are far too many equations to solve. I’m no better than anyone else at understanding what makes people tick, particularly women.",
+        "author": "Stephen Hawking"
+      }
+    ]
+  }
+  
